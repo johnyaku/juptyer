@@ -1,0 +1,8 @@
+name: env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.9.2
+  - jupyter=1.0.0
+  - pandas=1.2.4
